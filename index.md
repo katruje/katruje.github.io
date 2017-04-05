@@ -1,30 +1,10 @@
-#This is a test#
-<html>
-	<head>
-		<title>Hank Quinlan, Horrible Cop</title>
-		<!-- link to main stylesheet -->
-		<link rel="stylesheet" type="text/css" href="css/main.css">
-	</head>
-	<body>
-		<nav>
-    		<ul>
-        		<li><a href="/">Home</a></li>
-	        	<li><a href="/about">About</a></li>
-        		<li><a href="/cv">CV</a></li>
-        		<li><a href="/blog">Blog</a></li>
-    		</ul>
-		</nav>
-		<div class="container">
-    		<div class="blurb">
-        		<h1>Hi there, I'm Hank Quinlan!</h1>
-				<p>I'm best known as the horrible cop from <em>A Touch of Evil</em> Don't trust me. <a href="/about">Read more about my life...</a></p>
-    		</div><!-- /.blurb -->
-		</div><!-- /.container -->
-		<footer>
-    		<ul>
-        		<li><a href="mailto:hankquinlanhub@gmail.com">email</a></li>
-        		<li><a href="https://github.com/hankquinlan">github.com/hankquinlan</a></li>
-			</ul>
-		</footer>
-	</body>
-</html>
+#Welcome#
+This style guide was created to help Coupa tech writers create better content that focuses on customer value, rather than traditional tech writing standards. 
+##If You're a Tech Writer##
+This is the style guide you should follow when documenting our product. It helps us write clear and consistent content across our team. Please use it as a reference when creating content.
+This guide is not traditional, and doesn't talk much about grammar or style. At Coupa, we're willing to break some traditional grammar rules for clarity, practicality, or preference. But we always write in a way that's focused on our core values:
+* Ensure customer success
+* Focus on Results
+* Strive for excellence
+##If You're a Coupa Employee##
+The documentation team welcomes you to use and adapt this style guide as you see fit. 
