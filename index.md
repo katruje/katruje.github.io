@@ -1,3 +1,8 @@
+---
+layout: tutorial
+title: Style Guide
+---
+
 # Welcome #
 This style guide was created to help Coupa tech writers create better content that focuses on customer value, rather than traditional tech writing standards.
 
