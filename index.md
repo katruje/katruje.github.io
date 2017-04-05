@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: default
 title: Style Guide
 ---
 
