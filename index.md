@@ -8,6 +8,7 @@ This style guide was created to help Coupa tech writers create better content th
 
 ## If You're a Tech Writer ##
 This is the style guide you should follow when documenting our product. It helps us write clear and consistent content across our team. Please use it as a reference when creating content.
+
 This guide is not traditional, and doesn't talk much about grammar or style. At Coupa, we're willing to break some traditional grammar rules for clarity, practicality, or preference. But we always write in a way that's focused on our core values:
 * Ensure customer success
 * Focus on Results
